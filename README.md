@@ -3,7 +3,8 @@ A script that will pull all google streetview images registered along a path giv
 
 
 # Usage:
-
+`git clone https://github.com/0x4v3rn4l1s/Tools.git`
+`pip install -r requirements.txt`
 Call the script with your GoogleMaps API key and start and end point coordinates
 ![Alt text](image.png)
 
